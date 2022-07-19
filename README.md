@@ -1,19 +1,25 @@
 # ChatBot
 A Discord chat bot that allows you to communicate with people on different servers that also have ChatBot added to. ChatBot allows users to create up to 5 chats which can be connected to be different users from different servers to talk to each other.
 
-::connect <chat>
+`::connect <chat>`
 Connects your account to a chat
 
-::disconnect <chat>
+`::disconnect <chat>`
 Disconnects your account from a chat
 
-::connected
+`::connected`
 Shows which chat you're connected to
 
-::createchat <name> <password>
+`::createchat <name> <password>`
 Creates a chat
+  
+`::deletechat <chatname>`
+Deletes a chat
 
-::viewchats
+`::viewchats`
 View avaliable chats
 
-::
+`::help`
+Shows help page
+
+After connecting to a chat, anything you type onto the server with the bot added will be sent to the chatroom.

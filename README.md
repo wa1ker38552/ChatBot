@@ -23,3 +23,4 @@ View avaliable chats
 Shows help page
 
 After connecting to a chat, anything you type onto the server with the bot added will be sent to the chatroom.
+![image](https://user-images.githubusercontent.com/100868154/179653189-f396d7c1-bad1-4d0b-b327-a85da4b33cdb.png)
